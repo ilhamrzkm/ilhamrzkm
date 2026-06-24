@@ -21,4 +21,4 @@ Currently building for:
 - People and Businesses close to me
 - Myself
 
-Contact me via email at [github username] at google dot com
+Contact me via email at [github username] at gmail dot com
