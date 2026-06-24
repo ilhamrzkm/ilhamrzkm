@@ -18,7 +18,7 @@ I am Software Engineer.
 Currently building for:
 
 - Grey Ogre Games Singapore (Pricing & Processes)
-- Myself
 - People and Businesses close to me
+- Myself
 
 Contact me via email at [github username] at google dot com
