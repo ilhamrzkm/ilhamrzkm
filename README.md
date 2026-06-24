@@ -19,6 +19,6 @@ Currently building for:
 
 - Grey Ogre Games Singapore (Pricing & Processes)
 - People and Businesses close to me
-- Myself
+- The future
 
 Contact me via email at [github username] at gmail dot com
