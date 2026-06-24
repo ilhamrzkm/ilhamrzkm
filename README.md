@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Software Engineer.
+Currently building for:
+
+- Grey Ogre Games Singapore (Pricing & Processes)
+- Myself
+- People and Businesses close to me
+
+Contact me via email at [github username] at google dot com
