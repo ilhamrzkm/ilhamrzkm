@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **ilhamrzkm/ilhamrzkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Software Engineer.
+A Software Engineer.
+
 Currently building for:
 
-- Grey Ogre Games Singapore (Pricing & Processes)
+- [Grey Ogre Games](https://www.greyogregames.com/) (Pricing & Processes)
 - People and Businesses close to me
 - The Future
 
