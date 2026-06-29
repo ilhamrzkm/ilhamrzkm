@@ -22,4 +22,4 @@ Currently building for:
 - People and Businesses close to me
 - The Future
 
-Contact me via email at [github username] at gmail dot com
+Contact me via email at ilhamrzkm at gmail dot com
